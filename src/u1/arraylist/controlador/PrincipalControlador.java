@@ -116,7 +116,7 @@ public class PrincipalControlador {
         
         JOptionPane.showMessageDialog(null, "Falta implementar");
         
-        // TODO Tomar los datos y actualizar el arraylist
+        // TODO Tomar los datos y actualizar el objeto dentro del arraylist
         // TODO Actualizar la lista en el ListView
         
     }
